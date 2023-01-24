@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,  _ BARBADOS FM
-https://canli.arabeskinmerkezi.com/9180/stream
+#EXTINF:-1,Karadeniz Türk
+https://radyo.yayin.com.tr:6134/;
 
-#EXTINF:-1,#ÖZGÜRÜZ Radyo
-http://stream.ozguruz19.org:8000/ozguruz19
+#EXTINF:-1,Slow Karadeniz Fm
+https://dinle.slowkaradenizfm.com:9578/;
 
 #EXTINF:-1,06 FM Arabesk
 http://radyomarabesk.kesintisizyayin.com:9968/stream?type=http&nocache=20866
@@ -15,29 +15,11 @@ http://37.247.98.8/stream/30/;
 #EXTINF:-1,ANTAKYA RADYO RENK TURKEY
 http://yayin1.yayindakiler.com:3016/renk
 
-#EXTINF:-1,Arabesk FM
-http://yayin.arabeskfm.biz:8042/
-
 #EXTINF:-1,Arabesk Radyo
 http://dinle.arabeskradyo.biz:2011/;stream.mp3
 
-#EXTINF:-1,Avrasya Türk Radyo
-https://sslyayin.netyayin.net:10909/
-
 #EXTINF:-1,BAYRAM FM TURKEY
 https://sslyayin.netyayin.net/3442/stream
-
-#EXTINF:-1,BİLECİK FM TURKEY
-http://bilecikfm.kesintisizyayin.com:9980/
-
-#EXTINF:-1,BozRadio
-http://ais-edge106-live365-dal02.cdnstream.com/a80252
-
-#EXTINF:-1,CAN FM TURKEY
-https://canfmgen.80.yayin.com.tr/
-
-#EXTINF:-1,DAMAR TURK FM
-https://live.radyositesihazir.com:10997/
 
 #EXTINF:-1,DamarTurk FM
 https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881
@@ -51,17 +33,8 @@ https://moondigitalmaster.radyotvonline.net/egehavalari/playlist.m3u8
 #EXTINF:-1,FENOMEN TÜRK
 https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8
 
-#EXTINF:-1,GÖKKUŞAĞI RADYO TURKEY
-http://gokkusagiradyo.kesintisizyayin.com:8008/
-
 #EXTINF:-1,HAKKARİ FM TURKEY
 https://radyo.slmbilisim.net/8004/stream
-
-#EXTINF:-1,İstanbul FM
-http://46.20.4.50:9300
-
-#EXTINF:-1,KLAS RADİO TURKEY
-https://anadolu.liderhost.com.tr:10929/
 
 #EXTINF:-1,Kral FM
 http://46.20.3.204/
@@ -78,9 +51,6 @@ https://trkvz-radyolar.ercdn.net/radyoturkuvaz/playlist.m3u8
 #EXTINF:-1,Radyo Vatan Türkü
 http://95.0.173.195:9000/turku
 
-#EXTINF:-1,Radyom Arabesk
-http://radyomarabesk.kesintisizyayin.com:9968/
-
 #EXTINF:-1,TRT TÜRKÜ
 https://nmicenotrt.mediatriple.net/trt_turku.aac
 
@@ -92,6 +62,3 @@ https://trkvz-radyolar.ercdn.net/turkuvazmusiki/playlist.m3u8
 
 #EXTINF:-1,Türkü Radyo
 https://mamasfm.com:9984/stream.mp3
-
-#EXTINF:-1,Özgür Radyo
-http://95.173.188.170:9898/
